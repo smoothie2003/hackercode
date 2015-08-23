@@ -1,0 +1,7 @@
+Couple of important points.
+
+1. Maven - You had to use the assembly plugin to get it to the point of jar with dependencies. Probably not the right way to do it.
+2. Apache Poi - Remember you used it in the main class.
+3. Apache taka - Parser for picking up the file names.
+4. Finding in the directory files.
+5. TODO you didn't do the logging.
